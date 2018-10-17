@@ -1,0 +1,4 @@
+| aDictionnary|
+
+aDictionnary := Dictionary new
+
