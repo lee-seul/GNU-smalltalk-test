@@ -1,7 +1,7 @@
 | aSet |
 
-aSet := Set new
+aSet := Set new.
 
-aSet add: '1'
+aSet add: '1'.
 
 aSet printNl
